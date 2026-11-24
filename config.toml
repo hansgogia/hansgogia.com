@@ -1,0 +1,5 @@
+baseURL = "https://hansgogia.com/"
+languageCode = "en-us"
+title = "Hans Gogia"
+theme = "ananke"
+# Add your own params here
